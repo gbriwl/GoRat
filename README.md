@@ -27,13 +27,13 @@ Instruções para instalar e executar o jogo:
    
 Instale as dependências:
 
-bash
+```bash
 Copiar código
 pip install -U pyxel
 
 Execute o jogo:
 
-bash
+```bash
 Copiar código
 python gorat.py
 
