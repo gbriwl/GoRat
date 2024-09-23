@@ -14,7 +14,7 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 ## Tecnologias Usadas
 
 - Python
-- Pyxel: Retro Engine
+- https://github.com/kitao/pyxel
 
 
 ## Instalação
