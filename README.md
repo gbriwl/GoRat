@@ -21,14 +21,11 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 
 Instruções para instalar e executar o jogo:
 
->1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-jogo.git
-   
->2. **Instale as dependências:**
-```bash
-Copiar código
-pip install -U pyxel´´´
+>1. **Instale as dependencias**:
+```pip install -U pyxel```
+
+>2. 
+
 
 
 
