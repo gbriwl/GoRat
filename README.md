@@ -23,7 +23,7 @@ Instruções para instalar e executar o jogo:
 
 1. **Instale as dependencias**:
 ```bash
-pip install -U pyxel
+pip install -U pyxel```
 
  
 
