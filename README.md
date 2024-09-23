@@ -30,6 +30,7 @@ Instale as dependências:
 bash
 Copiar código
 pip install -U pyxel
+
 Execute o jogo:
 
 bash
