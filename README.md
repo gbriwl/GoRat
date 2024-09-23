@@ -38,7 +38,7 @@ python gorat.py
 
 
 
-# Colaboradores
+## Colaboradores
 
 O trabalho foi feito juntamento com 
 
@@ -47,7 +47,7 @@ O trabalho foi feito juntamento com
 
 
 
-# Obrigado!
+## Obrigado!
 
 
 
