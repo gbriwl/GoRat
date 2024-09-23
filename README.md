@@ -26,13 +26,13 @@ Instruções para instalar e executar o jogo:
    
 
 3. **Instale as dependencias**:
-```ruby
+```red
 pip install -U pyxel
 ```
 
 
 3. **Execute o jogo:**
-```ruby
+```red
 python gorat.py
 ```
 
