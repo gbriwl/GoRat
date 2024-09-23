@@ -25,13 +25,13 @@ Instruções para instalar e executar o jogo:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-jogo.git
    
-Instale as dependências:
+**Instale as dependências:**
 
 ```bash
 Copiar código
 pip install -U pyxel
 
-Execute o jogo:
+**Execute o jogo:**
 
 ```bash
 Copiar código
