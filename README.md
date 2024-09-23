@@ -21,9 +21,15 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 
 Instruções para instalar e executar o jogo:
 
-1. **Instale as dependencias**:
+1. **Baixe os arquivos do jogo:**
+
+2. **Instale as dependencias**:
 ```
 pip install -U pyxel
+```
+3. **Execute o jogo:**
+```
+python gorat.py
 ```
 
  
