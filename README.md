@@ -11,11 +11,11 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 - **Personagem Principal**: Em vez de um pássaro, agora você joga com um rato voador.
 - **Visual**: Todos os gráficos foram redesenhados como os canos e o fundo.
 
-## Tecnologias Usadas
+## Tecnologias e recursos usados
 
 - [python](https://www.python.org/)
 - [Pyxel](https://github.com/kitao/pyxel)
-
+- [Modelo flappy bird usando uma versao antiga do pyxel](https://github.com/comatan96/FlappyBird)
 
 ## Instalação
 
@@ -43,8 +43,9 @@ python gorat.py
 O trabalho foi feito juntamento com 
 
 -[Giovana schappo](https://github.com/giovannaschappo)
--
+
 -[Julia Dias Maia](https://github.com/juliadmaia)
+
 
 
 
