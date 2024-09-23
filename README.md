@@ -21,10 +21,11 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 
 Instruções para instalar e executar o jogo:
 
->1. **Instale as dependencias**:
-```pip install -U pyxel```
+1. **Instale as dependencias**:
+```bash
+pip install -U pyxel
 
->2. 
+ 
 
 
 
