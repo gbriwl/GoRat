@@ -42,8 +42,9 @@ python gorat.py
 
 O trabalho foi feito juntamento com 
 
--[Giovana schappo](https://github.com/giovannaschappo)-
--[Julia Dias Maia](https://github.com/juliadmaia)-
+-[Giovana schappo](https://github.com/giovannaschappo)
+-
+-[Julia Dias Maia](https://github.com/juliadmaia)
 
 
 
