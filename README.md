@@ -33,7 +33,8 @@ pip install -U pyxel
 
 3. **Execute o jogo:**
 ```ruby
-python``` gorat.py```
+python gorat.py
+```
 
 
 
