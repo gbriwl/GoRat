@@ -15,13 +15,13 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 
 - [python](https://www.python.org/)
 - [Pyxel](https://github.com/kitao/pyxel)
-- [Modelo flappy bird usando uma versao antiga do pyxel](https://github.com/comatan96/FlappyBird)
+- [Modelo flappy bird](https://github.com/comatan96/FlappyBird)
 
 ## Instalação
 
 Instruções para instalar e executar o jogo:
 
-1. **Baixe os arquivos do jogo**
+1. **Clone o jogo para sua maquina**
 
    
 
@@ -43,10 +43,11 @@ python gorat.py
 O trabalho foi feito juntamento com 
 
 -[Giovana schappo](https://github.com/giovannaschappo)
-
 -[Julia Dias Maia](https://github.com/juliadmaia)
 
 
+
+# Obrigado!
 
 
 
