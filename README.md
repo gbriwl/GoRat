@@ -13,8 +13,8 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 
 ## Tecnologias Usadas
 
-- Python
-- https://github.com/kitao/pyxel
+- [python](https://www.python.org/)
+- [Pyxel](https://github.com/kitao/pyxel)
 
 
 ## Instalação
