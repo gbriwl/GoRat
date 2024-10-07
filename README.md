@@ -43,14 +43,14 @@ python gorat.py
 
 ## Colaboradores
 
-O trabalho foi feito juntamento com 
+O trabalho foi feito juntamente com 
 
 - [Giovana schappo](https://github.com/giovannaschappo)
 - [Julia Dias Maia](https://github.com/juliadmaia)
 
 
 
-## Obrigado!
+### Obrigado e boa diversão!
 
 
 
