@@ -6,16 +6,19 @@ Bem-vindo ao **Go Rat**! Este é um projeto que transforma o clássico jogo Flap
 
 No **Go Rat**, você controla um rato que precisa navegar por uma série de obstáculos, passando por canos onde tem gatos e evitando quedas. O jogo mantém a jogabilidade do original, mas com uma dificuldade a mais, e um visual totalmente repaginado.
 
-## O que foi mudado
-
-- **Personagem Principal**: Em vez de um pássaro, agora você joga com um rato voador.
-- **Visual**: Todos os gráficos foram redesenhados como os canos e o fundo.
 
 ## Tecnologias e recursos usados
 
 - [python](https://www.python.org/)
 - [Pyxel](https://github.com/kitao/pyxel)
 - [Modelo flappy bird](https://github.com/comatan96/FlappyBird)
+
+
+## O que foi mudado
+
+- **Personagem Principal**: Em vez de um pássaro, agora você joga com um rato voador.
+- **Visual**: Todos os gráficos foram redesenhados como os canos e o fundo.
+
 
 ## Instalação
 
