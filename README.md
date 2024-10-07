@@ -24,7 +24,7 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 
 Instruções para instalar e executar o jogo:
 
-1. **Clone o jogo para sua maquina**
+1. **Clone todos os arquivos .py e pyxres para sua maquina**
 
    
 
