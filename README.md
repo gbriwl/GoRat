@@ -24,20 +24,23 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 
 Instruções para instalar e executar o jogo:
 
-1. **Clone todos os arquivos .py e pyxres para uma pasta sua maquina**
+1. **Clone todos os arquivos .py e pyxres para uma pasta em sua maquina**
 
 
 2. **Dentro da pasta crie outra chamada Assets e coloque o arquivo .pyxres nela**
 
+
+3. **Abra a pasta no Visual Studio Code**
+
    
 
-3. **Instale as dependencias**:
+4. **Instale as dependencias**:
 ```ruby
 pip install -U pyxel
 ```
 
 
-4. **Execute o jogo:**
+5. **Execute o jogo:**
 ```ruby
 python gorat.py
 ```
