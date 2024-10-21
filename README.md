@@ -34,7 +34,7 @@ Instruções para instalar e executar o jogo:
 
    
 
-4. **Instale as dependencias**:
+4. **Instale as dependencias citadas no requeriments.txt**:
 ```ruby
 pip install -U pyxel
 ```
