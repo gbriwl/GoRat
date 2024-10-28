@@ -18,6 +18,7 @@ No **Go Rat**, você controla um rato que precisa navegar por uma série de obst
 
 - **Personagem Principal**: Em vez de um pássaro, agora você joga com um rato voador.
 - **Visual**: Todos os gráficos foram redesenhados como os canos e o fundo.
+- **Codigo Geral**: Uma parte do codigo estava desatualizada em relação a versão do Pyxel mais atual, que foi o ultilizado na programação.
 
 
 ## Instalação
