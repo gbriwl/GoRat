@@ -56,7 +56,7 @@ O trabalho foi feito juntamente com
 - [Julia Dias Maia](https://github.com/juliadmaia)
 
 
-##Link da explicao do jogo 
+Link da explicao do jogo 
 https://youtu.be/OnjZTQD-cEc
 
 ### Obrigado e boa diversão!
